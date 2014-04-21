@@ -1,6 +1,6 @@
 ;
-; Define a procedure that takes three numbers as arguments and
-; returns a sum of the squares of the two larger numbers
+; Define a procedure that takes three numbers as arguments and returns a sum
+; of the squares of the two larger numbers
 ;
 
 (define (² x)
