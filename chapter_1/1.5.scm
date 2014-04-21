@@ -47,7 +47,7 @@
 
 ; and then reducing predicate argument:
 
-(if true 0 (p))
+(if true 0 y)
 
 ; Since `if` predicate expression is true, result is 0 and there is no need to
 ; evaluate alternative expression
